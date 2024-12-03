@@ -1,0 +1,4 @@
+For my first portfolio submission, I wanted to create a slightly different version of Tondo: Black and White II by Carmen Herrera. 
+I also used this website as reference when creating my background pattern https://workshops.hackclub.com/geometric_pattern/.
+I ran into some errors with this, as I found that the sketch was not loading when I clicked the live server button on VS code, however it is working when I copied it into p5.js web editor. I have attached a link both to the github repository where I am hosting my portfolio submissions and to the web editor version of this file. 
+p5.js web editor version: https://editor.p5js.org/aryajoshiii/sketches
