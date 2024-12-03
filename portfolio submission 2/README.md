@@ -1,0 +1,3 @@
+For this portfolio submission, I used text from my favourite book, 'A Thousand Splendid Suns' as inspiration. 
+I found this one a bit harder than the others, as I ran into some issues when trying to preload my own font choice into the sketch, so overall it is more simple than I would've wanted it to be as I ran out of time to change the project to what I wanted it to be. 
+I also would have added a drawing element to the screen if I had more time, as I was interested in creating a moving image of a rising sun, which I started but was not able to complete.

@@ -1,0 +1,3 @@
+I wanted to create a creative grid of shapes using a custom shape for this portfolio submission. 
+Initially, I experimented with different shapes but found that creating complex custom ones involved geometric functions that I was not already familiar with and struggled to grasp, such as using pow (to the power of). As i found this too difficult to implement, I stuck to using triangles.
+With every time you refresh the page, the pattern changes to move the triangles closer together! I wasn't entirely sure how to do this, but I liked the effect that it gave so I left it in my code.
